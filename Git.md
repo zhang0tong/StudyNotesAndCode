@@ -1,4 +1,18 @@
+<a id="top"></a>
 # Git
+
+  - [一、Git](#%e4%b8%80git)
+  - [二、下载、安装和配置](#%e4%ba%8c%e4%b8%8b%e8%bd%bd%e5%ae%89%e8%a3%85%e5%92%8c%e9%85%8d%e7%bd%ae)
+  - [三、搭建git服务器（远程仓库）](#%e4%b8%89%e6%90%ad%e5%bb%bagit%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%bf%9c%e7%a8%8b%e4%bb%93%e5%ba%93)
+  - [四、常用命令](#%e5%9b%9b%e5%b8%b8%e7%94%a8%e5%91%bd%e4%bb%a4)
+  - [五、三种状态以及分区](#%e4%ba%94%e4%b8%89%e7%a7%8d%e7%8a%b6%e6%80%81%e4%bb%a5%e5%8f%8a%e5%88%86%e5%8c%ba)
+    - [1.三种分区](#1%e4%b8%89%e7%a7%8d%e5%88%86%e5%8c%ba)
+    - [2.三种状态](#2%e4%b8%89%e7%a7%8d%e7%8a%b6%e6%80%81)
+  - [六、分支操作](#%e5%85%ad%e5%88%86%e6%94%af%e6%93%8d%e4%bd%9c)
+  - [七、版本穿梭](#%e4%b8%83%e7%89%88%e6%9c%ac%e7%a9%bf%e6%a2%ad)
+  - [八、stash保存现场](#%e5%85%abstash%e4%bf%9d%e5%ad%98%e7%8e%b0%e5%9c%ba)
+  - [九、其他总结](#%e4%b9%9d%e5%85%b6%e4%bb%96%e6%80%bb%e7%bb%93)
+  - [十、团队协作开发](#%e5%8d%81%e5%9b%a2%e9%98%9f%e5%8d%8f%e4%bd%9c%e5%bc%80%e5%8f%91)
 
 ## 一、Git
 
@@ -13,7 +27,7 @@
 
 ## 二、下载、安装和配置
 
-1. 在git官网下载，安装。
+1. 在[git官网](https://git-scm.com/)下载，安装。
 
 2. 一般只需要选Use Git from Git Bash only，windows下其余的默认下一步。
 
@@ -28,7 +42,7 @@
 
 ## 三、搭建git服务器（远程仓库）
 
-1. 使用统一的托管网站(https://github.com/)
+1. 使用统一的托管网站<a href="https://github.com/" target="_blank">GitHub</a>
 
 2. 为了在本地和远程仓库之间进行免密登陆，配置ssh
 
@@ -155,3 +169,8 @@
 1. github该项目中增加合作者（全名或者邮箱）
 2. 发送邀请链接
 3. 接受邀请，之后就可以正常对项目进行操作
+
+<div style="text-align: right;position: fixed;right: 10px; bottom: 20px;">
+   <a href="./README.md">回到readme</a>
+   <a href="#top">回到顶部</a>
+</div>
