@@ -171,6 +171,6 @@
 3. 接受邀请，之后就可以正常对项目进行操作
 
 <div style="text-align: right;position: fixed;right: 10px; bottom: 20px;">
-   <a href="./README.md">回到readme</a>
+   <a href="./README.md">回到readme</a></br>
    <a href="#top">回到顶部</a>
 </div>
