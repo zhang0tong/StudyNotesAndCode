@@ -2,7 +2,7 @@
 
 # Git
 
-[视频教程](https://www.bilibili.com/video/av52388193)
+<a href="https://www.bilibili.com/video/av52388193" target="_blank">视频教程</a>
 
 - [Git](#git)
   - [一、Git](#%e4%b8%80git)
